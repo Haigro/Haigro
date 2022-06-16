@@ -1,8 +1,7 @@
 About me:
 
-- 👋 Hi, I’m @Haigro, a student at the University of Virginia
+- 👋 Hi, I’m @Haigro, a student at the University of Virginia MSDS program.
 - 👀 I’m interested in Machine Learning applications, data science, and software engineering.
-- 🌱 I’m currently learning Java. Still deciding what other skills I should learn!
 
 <!---
 Haigro/Haigro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
