@@ -1,6 +1,6 @@
 About me:
 
-- 👋 Hi, I’m @Haigro, a student at the University of Virginia MSDS program.
+- 👋 Hi, I’m @Haigro, a former student at the University of Virginia.
 - 👀 I’m interested in Machine Learning applications, data science, and software engineering.
 
 <!---
